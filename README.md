@@ -5,6 +5,6 @@
 
 参见
 FHWPageControl.h
-FHWPageControl.m
+FHWPageControl.m  
 
 ![image](https://github.com/suzhiqiu/EllipsePageControl/blob/master/%E8%BD%AE%E6%92%AD.gif)
