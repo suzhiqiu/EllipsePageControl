@@ -24,18 +24,12 @@
     [self.view addSubview:self.carouselView];
     
     //可以替换线上清晰图片
-    NSArray *urls=@[@"https://img.alicdn.com/imgextra/i2/880734502/O1CN01lZIjRa1j7xbQGio11_!!0-item_pic.jpg_800x8000q90.jpg",
+    NSArray *urls=@[@"https://img.alicdn.com/imgextra/i2/880734502/O1CN01lZIjRa1j7xbQGio11_!!0-item_pic.jpg_60x60q90.jpg",
                     @"https://img.alicdn.com/imgextra/i2/880734502/O1CN01ft1XiQ1j7xasCjtnZ-880734502.jpg_60x60q90.jpg",
                     @"https://img.alicdn.com/imgextra/i1/880734502/O1CN01dRZ3jT1j7xZ6j5y02_!!0-item_pic.jpg_60x60q90.jpg",
                     @"https://img.alicdn.com/imgextra/i4/880734502/TB2wAJ1gFXXXXcUXpXXXXXXXXXX_!!880734502.jpg_60x60q90.jpg",
                     @"https://img.alicdn.com/imgextra/i1/880734502/O1CN01kacPqB1j7xatbps7U-880734502.jpg_60x60q90.jpg"];
     
-    NSArray *urls2=@[
-                     @"https://youzijie.seeyouyima.com/youngmall/1553477511_b02b35e8eedc708678dfa5efb97daba0_800_800.jpg",
-                     @"https://youzijie.seeyouyima.com/youngmall/1542283001_54e5662e11ae9c752d875619df41dd20_800_800.jpg",
-                     @"https://youzijie.seeyouyima.com/youngmall/1542283002_28e9b4066bf998db0ef29bbf7dd282f7_800_800.jpg",
-                     @"https://youzijie.seeyouyima.com/youngmall/1542283003_948428ee845a53253c1784fd15500880_800_800.jpg",
-                     @"https://youzijie.seeyouyima.com/youngmall/1542283004_b557a6c22440952385f96511ddf93584_800_800.jpg"];
     self.carouselView.models=urls;
 }
 
