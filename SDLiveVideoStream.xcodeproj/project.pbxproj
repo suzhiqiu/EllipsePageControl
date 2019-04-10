@@ -34,7 +34,6 @@
 		FCA35DFD225DEE85000BB40D /* NSObject+IMYFoundation.m in Sources */ = {isa = PBXBuildFile; fileRef = FCA35DFC225DEE85000BB40D /* NSObject+IMYFoundation.m */; };
 		FCA35E00225DEEAA000BB40D /* NSString+IMYFoundation.m in Sources */ = {isa = PBXBuildFile; fileRef = FCA35DFE225DEEAA000BB40D /* NSString+IMYFoundation.m */; };
 		FCA35E03225DFB81000BB40D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FCA35E02225DFB81000BB40D /* README.md */; };
-		FCA35E05225DFBA2000BB40D /* 轮播.gif in Resources */ = {isa = PBXBuildFile; fileRef = FCA35E04225DFBA2000BB40D /* 轮播.gif */; };
 		FCF6409C1F57984900F273CF /* BaseWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FCF6409B1F57984900F273CF /* BaseWebViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -103,7 +102,6 @@
 		FCA35DFE225DEEAA000BB40D /* NSString+IMYFoundation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+IMYFoundation.m"; sourceTree = "<group>"; };
 		FCA35DFF225DEEAA000BB40D /* NSString+IMYFoundation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+IMYFoundation.h"; sourceTree = "<group>"; };
 		FCA35E02225DFB81000BB40D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
-		FCA35E04225DFBA2000BB40D /* 轮播.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "轮播.gif"; sourceTree = SOURCE_ROOT; };
 		FCF6409A1F57984900F273CF /* BaseWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BaseWebViewController.h; path = SDLiveVideoStream/genternal/Base/ViewController/BaseWebViewController.h; sourceTree = SOURCE_ROOT; };
 		FCF6409B1F57984900F273CF /* BaseWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BaseWebViewController.m; path = SDLiveVideoStream/genternal/Base/ViewController/BaseWebViewController.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
@@ -257,7 +255,6 @@
 			isa = PBXGroup;
 			children = (
 				FCA35E02225DFB81000BB40D /* README.md */,
-				FCA35E04225DFBA2000BB40D /* 轮播.gif */,
 				FCA35DEE225DE8B6000BB40D /* CarouselView */,
 				7525D0641F35A1D200C221DB /* Genternal */,
 				FC12FD491F2F2F610012B633 /* AppDelegate.h */,
@@ -368,7 +365,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				FCA35E03225DFB81000BB40D /* README.md in Resources */,
-				FCA35E05225DFBA2000BB40D /* 轮播.gif in Resources */,
 				FC12FD561F2F2F610012B633 /* LaunchScreen.storyboard in Resources */,
 				FC12FD531F2F2F610012B633 /* Assets.xcassets in Resources */,
 			);
