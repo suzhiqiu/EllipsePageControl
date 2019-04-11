@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '374FCD46F508B23C65D94C51C456EC09'
+               BlueprintIdentifier = '5424FEE7A88C4DBD953788DAA4E961B4'
                BlueprintName = 'Pods-SDLiveVideoStream'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libPods-SDLiveVideoStream.a'>

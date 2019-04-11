@@ -10,6 +10,7 @@ target 'SDLiveVideoStream' do
 
 
 #===============need
+pod 'AFNetworking'
 pod 'ReactiveCocoa'        ,  '2.5'    #响应式编程
 pod 'Masonry'
 pod 'FLAnimatedImage'
